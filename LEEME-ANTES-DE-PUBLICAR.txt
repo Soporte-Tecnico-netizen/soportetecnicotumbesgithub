@@ -1,0 +1,35 @@
+SOPORTE TÉCNICO TUMBES — SITIO WEB
+====================================
+
+Archivos
+- index.html: página principal.
+- styles.css: diseño adaptable a móviles, tablets y computadoras.
+- script.js: menú y formulario de consulta.
+- assets/logo-soporte-tecnico-tumbes.svg: logotipo vectorial.
+
+ANTES DE PUBLICAR
+1. Abre script.js en un editor de texto.
+2. Busca: const WHATSAPP_NUMBER = "";
+3. Coloca el número comercial en formato internacional, solo dígitos (Perú: 51 + número), sin +, espacios ni guiones.
+4. Revisa en index.html los textos de horario, zona de atención y servicios para confirmar que describen tu operación real.
+5. No publiques datos personales o comerciales sin revisar que sean correctos.
+
+VER LA WEB EN TU COMPUTADORA
+- Extrae todos los archivos de este ZIP en una carpeta.
+- Abre index.html con Google Chrome.
+- La página se verá localmente en tu computadora; todavía no será pública en Internet.
+
+PUBLICAR GRATIS CON GITHUB PAGES (requiere tu cuenta)
+1. Inicia sesión en https://github.com/
+2. Crea un repositorio nuevo, por ejemplo: soporte-tecnico-tumbes
+3. Sube el contenido de esta carpeta al repositorio (index.html debe quedar en la raíz).
+4. En el repositorio, abre Settings > Pages.
+5. En “Build and deployment”, selecciona “Deploy from a branch”, elige la rama main y la carpeta /(root), y guarda.
+6. Espera a que GitHub Pages genere el enlace público. La URL será mostrada en Settings > Pages y dependerá del nombre de tu usuario/repositorio.
+7. Abre ese enlace en Chrome y compártelo con tus clientes.
+
+IMPORTANTE
+- Esta entrega es una web estática preparada para publicar. No se ha publicado automáticamente ni se ha registrado un dominio.
+- Para publicar desde una sesión de Google Chrome se necesita que el propietario inicie sesión y autorice el servicio de alojamiento. No compartas contraseñas.
+- El formulario no envía datos a una base de datos. Tras configurar el WhatsApp, abre una conversación con el mensaje preparado.
+- Las tarifas, teléfono, correo, redes sociales y dirección exacta deben añadirse solo cuando estén confirmados.
